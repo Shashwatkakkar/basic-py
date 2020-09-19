@@ -29,5 +29,4 @@ if(temp==2 and num==0):
 if(temp==2 and num==1):
     print("You Win!")
 #end
-print("\n")
 print("Thanks for playing!")
